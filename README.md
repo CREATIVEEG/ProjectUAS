@@ -11,7 +11,7 @@ Sekian dari tugas Ujian Akhir Semester ini saya buat, Saya ucapkan Terimakasih.
 
 ```
 Nama 	: Rhendy Diki Nugraha
-NIM		: 312210150
+NIM	: 312210150
 Kelas	: TI.22.A.1
 Dosen 	: Agung Nugroho,S.Kom.,M.Kom
 ```
